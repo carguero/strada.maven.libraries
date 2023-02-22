@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:18:59 BRT 2022
+thymeleaf-3.0.9.RELEASE.jar>nexus=
+thymeleaf-3.0.9.RELEASE-sources.jar>nexus=
+thymeleaf-3.0.9.RELEASE.pom>nexus=
+thymeleaf-3.0.9.RELEASE.jar>central=
+thymeleaf-3.0.9.RELEASE.pom>central=

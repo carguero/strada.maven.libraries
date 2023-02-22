@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 22 18:26:51 BRT 2022
+httpcore-nio-4.3.2.jar>central=
+httpcore-nio-4.3.2.jar>nexus=
+httpcore-nio-4.3.2.pom>central=
+httpcore-nio-4.3.2-sources.jar>central=
+httpcore-nio-4.3.2.pom>nexus=

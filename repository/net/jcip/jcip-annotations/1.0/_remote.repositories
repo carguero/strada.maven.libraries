@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 15:29:59 BRT 2022
+jcip-annotations-1.0.jar>nexus=
+jcip-annotations-1.0-sources.jar>nexus=
+jcip-annotations-1.0.pom>central=
+jcip-annotations-1.0.jar>central=
+jcip-annotations-1.0.pom>nexus=

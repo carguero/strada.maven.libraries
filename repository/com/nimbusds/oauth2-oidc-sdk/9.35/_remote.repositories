@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 13:56:01 BRT 2022
+oauth2-oidc-sdk-9.35-sources.jar>nexus=
+oauth2-oidc-sdk-9.35.pom>nexus=
+oauth2-oidc-sdk-9.35.jar>nexus=

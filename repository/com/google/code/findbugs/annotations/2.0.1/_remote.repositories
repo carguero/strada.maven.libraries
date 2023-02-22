@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:26:26 BRT 2022
+annotations-2.0.1.pom>nexus=
+annotations-2.0.1.pom>central=
+annotations-2.0.1.jar>central=
+annotations-2.0.1.jar>nexus=

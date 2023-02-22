@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:29:12 BRT 2022
+lucene-queries-4.5.1.jar>central=
+lucene-queries-4.5.1.pom>nexus=
+lucene-queries-4.5.1.jar>nexus=
+lucene-queries-4.5.1-sources.jar>nexus=
+lucene-queries-4.5.1.pom>central=

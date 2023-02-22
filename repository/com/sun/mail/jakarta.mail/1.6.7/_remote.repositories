@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:07:47 BRT 2022
+jakarta.mail-1.6.7-sources.jar>nexus=
+jakarta.mail-1.6.7.jar>nexus=
+jakarta.mail-1.6.7.pom>nexus=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 18:55:30 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677102930564
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102930482
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact io.projectreactor\:reactor-bom\:pom\:2020.0.26 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/io/projectreactor/reactor-bom/2020.0.26/reactor-bom-2020.0.26.pom 403 Forbidden

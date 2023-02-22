@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 13:51:20 BRT 2022
+maven-shared-utils-3.3.4.jar>nexus=
+maven-shared-utils-3.3.4-sources.jar>nexus=
+maven-shared-utils-3.3.4.pom>nexus=

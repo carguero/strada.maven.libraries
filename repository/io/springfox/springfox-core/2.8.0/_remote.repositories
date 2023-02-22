@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:18:50 BRT 2022
+springfox-core-2.8.0.pom>central=
+springfox-core-2.8.0.jar>nexus=
+springfox-core-2.8.0-sources.jar>nexus=
+springfox-core-2.8.0.jar>central=
+springfox-core-2.8.0.pom>nexus=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 13:54:34 BRT 2022
+spring-data-commons-2.7.2.jar>nexus=
+spring-data-commons-2.7.2.pom>nexus=
+spring-data-commons-2.7.2-sources.jar>nexus=

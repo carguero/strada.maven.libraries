@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 18:55:38 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677102938820
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102938742
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact com.amazonaws\:aws-java-sdk-core\:pom\:1.12.372 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/com/amazonaws/aws-java-sdk-core/1.12.372/aws-java-sdk-core-1.12.372.pom 403 Forbidden

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:16:31 BRT 2022
+spring-beans-5.0.5.RELEASE-sources.jar>nexus=
+spring-beans-5.0.5.RELEASE.pom>central=
+spring-beans-5.0.5.RELEASE.jar>nexus=
+spring-beans-5.0.5.RELEASE.jar>central=
+spring-beans-5.0.5.RELEASE.pom>nexus=

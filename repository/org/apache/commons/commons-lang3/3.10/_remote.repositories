@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 26 14:27:24 BRT 2022
+commons-lang3-3.10.pom>nexus=
+commons-lang3-3.10.jar>nexus=
+commons-lang3-3.10-sources.jar>nexus=

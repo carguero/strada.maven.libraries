@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 19:06:21 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677103581330
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677103578691
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.springframework\:spring-aspects\:jar\:5.3.24 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/org/springframework/spring-aspects/5.3.24/spring-aspects-5.3.24.jar 403 Forbidden

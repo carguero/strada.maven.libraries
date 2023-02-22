@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>br.com.tipbank</groupId>
+  <artifactId>servico</artifactId>
+  <version>22.11.01-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20221105.121826</timestamp>
+      <buildNumber>6</buildNumber>
+    </snapshot>
+    <lastUpdated>20221105121826</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>22.11.01-20221105.121826-6</value>
+        <updated>20221105121826</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>22.11.01-20221105.121826-6</value>
+        <updated>20221105121826</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

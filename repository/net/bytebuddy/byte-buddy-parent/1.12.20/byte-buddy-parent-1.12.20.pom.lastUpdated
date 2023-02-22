@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 18:55:41 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677102941731
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102941651
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact net.bytebuddy\:byte-buddy-parent\:pom\:1.12.20 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/net/bytebuddy/byte-buddy-parent/1.12.20/byte-buddy-parent-1.12.20.pom 403 Forbidden

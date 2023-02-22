@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:13:43 BRT 2022
+aws-java-sdk-bom-1.11.251.pom>central=
+aws-java-sdk-bom-1.11.251.pom>nexus=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 18:13:56 BRT 2022
+policy-2.2.2-sources.jar>nexus=
+policy-2.2.2.pom>nexus=
+policy-2.2.2.jar>nexus=

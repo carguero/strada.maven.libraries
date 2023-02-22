@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:28:31 BRT 2022
+jdo-api-3.0.1.jar>central=
+jdo-api-3.0.1.jar>nexus=
+jdo-api-3.0.1.pom>central=
+jdo-api-3.0.1.pom>nexus=
+jdo-api-3.0.1-sources.jar>nexus=

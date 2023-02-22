@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:10:08 BRT 2022
+jackson-datatype-hibernate5-2.13.1.jar>nexus=
+jackson-datatype-hibernate5-2.13.1-sources.jar>nexus=
+jackson-datatype-hibernate5-2.13.1.pom>nexus=

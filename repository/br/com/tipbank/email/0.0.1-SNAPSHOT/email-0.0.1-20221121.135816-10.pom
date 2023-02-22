@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>br.com</groupId>
+		<artifactId>tipbank-parent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath /> <!-- lookup parent from repository -->
+	</parent>
+
+	<groupId>br.com.tipbank</groupId>
+	<artifactId>email</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>tipbank-email-service</name>
+	<description>Tipbank Email Service</description>
+
+	<properties>
+		<java.version>17</java.version>
+        <sonar.projectKey>tipbank_tipbank-email-service_AYSadRlimalNo9BDdObR</sonar.projectKey>
+        <sonar.qualitygate.wait>true</sonar.qualitygate.wait>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<!-- TIPBANK SERVICO -->
+		<dependency>
+			<groupId>br.com.tipbank</groupId>
+			<artifactId>servico</artifactId>
+			<version>22.11.01-IP-2134-SNAPSHOT</version>
+		</dependency>
+		<!-- TIPBANK SERVICO -->
+
+		<!-- lombok -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<scope>provided</scope>
+			<optional>true</optional>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+
+	<distributionManagement>
+		<snapshotRepository>
+			<id>nexus</id>
+			<url>http://nexus.devops.tipbank.local.br/repository/desenvolvimento</url>
+		</snapshotRepository>
+		<repository>
+			<id>nexus</id>
+			<url>http://nexus.devops.tipbank.local.br/repository/desenvolvimento</url>
+		</repository>
+	</distributionManagement>
+
+</project>

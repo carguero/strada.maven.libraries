@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 20 11:26:22 BRT 2022
+reactor-core-3.4.24.jar>nexus=
+reactor-core-3.4.24-sources.jar>nexus=
+reactor-core-3.4.24.pom>nexus=

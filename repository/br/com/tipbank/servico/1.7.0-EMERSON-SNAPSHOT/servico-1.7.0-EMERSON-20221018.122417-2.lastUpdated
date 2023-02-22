@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 23 19:43:40 BRT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1666565020369
+http\://nexus.devops.tipbank.local.br/repository/fabrica/.error=Could not transfer artifact br.com.tipbank\:servico\:\:1.7.0-EMERSON-20221018.122417-2 from/to nexus (http\://nexus.devops.tipbank.local.br/repository/fabrica)\: Access denied to http\://nexus.devops.tipbank.local.br/repository/fabrica/br/com/tipbank/servico/1.7.0-EMERSON-SNAPSHOT/servico-1.7.0-EMERSON-20221018.122417-2. Error code 401, Unauthorized
+@default-nexus-http\://nexus.devops.tipbank.local.br/repository/fabrica/.lastUpdated=1666565020647
+https\://repo.maven.apache.org/maven2/.error=

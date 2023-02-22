@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 18:55:41 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677102941443
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102941363
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.hibernate\:hibernate-core\:pom\:5.6.14.Final from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/org/hibernate/hibernate-core/5.6.14.Final/hibernate-core-5.6.14.Final.pom 403 Forbidden

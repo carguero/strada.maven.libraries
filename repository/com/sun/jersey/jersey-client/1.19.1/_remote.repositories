@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 15:30:24 BRT 2022
+jersey-client-1.19.1.pom>central=
+jersey-client-1.19.1.jar>nexus=
+jersey-client-1.19.1.pom>nexus=
+jersey-client-1.19.1.jar>central=
+jersey-client-1.19.1-sources.jar>nexus=

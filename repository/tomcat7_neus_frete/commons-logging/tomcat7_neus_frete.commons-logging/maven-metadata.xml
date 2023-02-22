@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>tomcat7_neus_frete.commons-logging</groupId>
+  <artifactId>tomcat7_neus_frete.commons-logging</artifactId>
+  <versioning>
+    <latest>commons-logging</latest>
+    <release>commons-logging</release>
+    <versions>
+      <version>commons-logging</version>
+    </versions>
+    <lastUpdated>20200513141913</lastUpdated>
+  </versioning>
+</metadata>

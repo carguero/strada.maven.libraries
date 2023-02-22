@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 18:55:29 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677102929163
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102928795
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact io.github.openfeign\:feign-bom\:pom\:11.10 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/io/github/openfeign/feign-bom/11.10/feign-bom-11.10.pom 403 Forbidden

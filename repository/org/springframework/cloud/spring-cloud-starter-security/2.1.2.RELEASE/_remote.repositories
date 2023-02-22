@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:07:51 BRT 2022
+spring-cloud-starter-security-2.1.2.RELEASE.pom>nexus=
+spring-cloud-starter-security-2.1.2.RELEASE.jar>nexus=
+spring-cloud-starter-security-2.1.2.RELEASE-sources.jar>nexus=

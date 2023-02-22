@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:04:41 BRT 2022
+guava-19.0.pom>nexus=
+guava-19.0-sources.jar>nexus=
+guava-19.0.pom>central=
+guava-19.0.jar>nexus=

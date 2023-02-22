@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:06:00 BRT 2022
+objenesis-3.2.jar>nexus=
+objenesis-3.2-sources.jar>nexus=
+objenesis-3.2.pom>nexus=

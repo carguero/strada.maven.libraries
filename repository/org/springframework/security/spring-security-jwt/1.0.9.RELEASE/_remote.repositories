@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:08:08 BRT 2022
+spring-security-jwt-1.0.9.RELEASE-sources.jar>nexus=
+spring-security-jwt-1.0.9.RELEASE.jar>nexus=
+spring-security-jwt-1.0.9.RELEASE.pom>nexus=

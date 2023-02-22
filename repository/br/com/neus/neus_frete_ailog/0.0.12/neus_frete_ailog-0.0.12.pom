@@ -1,0 +1,113 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>br.com.neus</groupId>
+	<artifactId>neus_frete_ailog</artifactId>
+	<version>0.0.12</version>
+	<!--<packaging>jar</packaging>-->
+
+	<description></description>
+
+	<scm>
+		<url>http://git.inneus.com.br/fabrica/neus_frete_ailog.git</url>
+		<connection>scm:git:git@git.inneus.com.br:fabrica/neus_frete_ailog.git</connection>
+		<developerConnection>scm:git:git@git.inneus.com.br:fabrica/neus_frete_ailog.git</developerConnection>
+	</scm>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>1.7</maven.compiler.source>
+		<maven.compiler.target>1.7</maven.compiler.target>
+	</properties>
+
+	<build>
+		<resources>
+			<resource>
+				<directory>src/main/resources</directory>
+				<filtering>true</filtering>
+				<includes>
+					<include>**/*</include>
+				</includes>
+			</resource>
+		</resources>
+		<plugins>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.3.2</version>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<version>2.4.1</version>
+				<configuration>
+					<finalName>${project.build.finalName}</finalName>
+					<appendAssemblyId>false</appendAssemblyId>
+
+					<descriptorRefs>
+						<descriptorRef>jar-with-dependencies</descriptorRef>
+					</descriptorRefs>
+				</configuration>
+				<executions>
+					<execution>
+						<id>make-assembly</id>
+						<phase>package</phase>
+						<goals>
+							<goal>single</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+
+	</build>
+
+	<dependencies>
+		<dependency>
+		  <artifactId>neus_frete_ailog.commons-logging</artifactId>
+		  <groupId>neus_frete_ailog.commons-logging</groupId>
+		  <version>commons-logging</version>
+		</dependency><dependency>
+		  <artifactId>neus_frete_ailog.wsdl4j</artifactId>
+		  <groupId>neus_frete_ailog.wsdl4j</groupId>
+		  <version>wsdl4j</version>
+		</dependency><dependency>
+		  <artifactId>neus_frete_ailog.webserviceutils</artifactId>
+		  <groupId>neus_frete_ailog.webserviceutils</groupId>
+		  <version>webserviceutils</version>
+		</dependency><dependency>
+		  <artifactId>neus_frete_ailog.jaxrpc</artifactId>
+		  <groupId>neus_frete_ailog.jaxrpc</groupId>
+		  <version>jaxrpc</version>
+		</dependency><dependency>
+		  <artifactId>neus_frete_ailog.axis</artifactId>
+		  <groupId>neus_frete_ailog.axis</groupId>
+		  <version>axis</version>
+		</dependency><dependency>
+		  <artifactId>neus_frete_ailog.commons-discovery</artifactId>
+		  <groupId>neus_frete_ailog.commons-discovery</groupId>
+		  <version>0.2</version>
+		</dependency><dependency>
+		  <artifactId>neus_frete_ailog.saaj</artifactId>
+		  <groupId>neus_frete_ailog.saaj</groupId>
+		  <version>saaj</version>
+		</dependency>
+		<dependency>
+        	<groupId>javax.mail</groupId>
+        	<artifactId>mail</artifactId>
+        	<version>1.4.7</version>
+    	</dependency>
+    	<dependency>
+        	<groupId>javax.activation</groupId>
+        	<artifactId>activation</artifactId>
+        	<version>1.1.1</version>
+    	</dependency>
+	</dependencies>
+
+</project>

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:17:24 BRT 2022
+spring-boot-starter-web-2.0.1.RELEASE.jar>central=
+spring-boot-starter-web-2.0.1.RELEASE.jar>nexus=
+spring-boot-starter-web-2.0.1.RELEASE.pom>nexus=
+spring-boot-starter-web-2.0.1.RELEASE.pom>central=
+spring-boot-starter-web-2.0.1.RELEASE-sources.jar>nexus=

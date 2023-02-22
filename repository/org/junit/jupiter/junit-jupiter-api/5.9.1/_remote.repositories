@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 02 11:52:16 BRT 2022
+junit-jupiter-api-5.9.1.jar>nexus=
+junit-jupiter-api-5.9.1.pom>nexus=
+junit-jupiter-api-5.9.1-sources.jar>nexus=

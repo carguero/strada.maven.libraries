@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 18:55:39 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677102939245
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102939168
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:pom\:4.4.16 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.pom 403 Forbidden

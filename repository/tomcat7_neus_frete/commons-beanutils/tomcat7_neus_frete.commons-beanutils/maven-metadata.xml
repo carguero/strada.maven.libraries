@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>tomcat7_neus_frete.commons-beanutils</groupId>
+  <artifactId>tomcat7_neus_frete.commons-beanutils</artifactId>
+  <versioning>
+    <latest>commons-beanutils</latest>
+    <release>commons-beanutils</release>
+    <versions>
+      <version>commons-beanutils</version>
+    </versions>
+    <lastUpdated>20200513150823</lastUpdated>
+  </versioning>
+</metadata>

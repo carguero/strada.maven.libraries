@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 09 10:09:07 BRT 2022
+swagger-ui-4.10.3.jar>nexus=
+swagger-ui-4.10.3-javadoc.jar>nexus=
+swagger-ui-4.10.3.pom>nexus=

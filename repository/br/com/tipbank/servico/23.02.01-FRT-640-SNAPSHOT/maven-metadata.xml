@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>br.com.tipbank</groupId>
+  <artifactId>servico</artifactId>
+  <version>23.02.01-FRT-640-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20230209.204825</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20230209204825</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>23.02.01-FRT-640-20230209.204825-2</value>
+        <updated>20230209204825</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>23.02.01-FRT-640-20230209.204825-2</value>
+        <updated>20230209204825</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 18:55:40 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677102940810
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102940733
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact ch.qos.logback\:logback-parent\:pom\:1.2.11 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/ch/qos/logback/logback-parent/1.2.11/logback-parent-1.2.11.pom 403 Forbidden

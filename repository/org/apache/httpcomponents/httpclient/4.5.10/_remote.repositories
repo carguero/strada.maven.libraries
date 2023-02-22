@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 22 18:26:51 BRT 2022
+httpclient-4.5.10-sources.jar>central=
+httpclient-4.5.10.pom>central=
+httpclient-4.5.10.jar>central=
+httpclient-4.5.10.jar>nexus=
+httpclient-4.5.10.pom>nexus=

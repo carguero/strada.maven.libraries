@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:04:46 BRT 2022
+httpcore-4.4.15.jar>nexus=
+httpcore-4.4.15-sources.jar>nexus=
+httpcore-4.4.15.pom>nexus=

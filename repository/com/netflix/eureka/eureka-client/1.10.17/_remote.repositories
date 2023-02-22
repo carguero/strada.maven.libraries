@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:04:09 BRT 2022
+eureka-client-1.10.17-sources.jar>nexus=
+eureka-client-1.10.17.jar>nexus=
+eureka-client-1.10.17.pom>nexus=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:06:17 BRT 2022
+spring-boot-actuator-autoconfigure-2.6.2.pom>nexus=
+spring-boot-actuator-autoconfigure-2.6.2.jar>nexus=
+spring-boot-actuator-autoconfigure-2.6.2-sources.jar>nexus=

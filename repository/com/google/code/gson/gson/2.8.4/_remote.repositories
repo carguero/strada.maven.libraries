@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 18:14:07 BRT 2022
+gson-2.8.4-sources.jar>nexus=
+gson-2.8.4.jar>nexus=
+gson-2.8.4.pom>nexus=

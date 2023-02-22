@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>neus_frete.struts</groupId>
+  <artifactId>neus_frete.struts</artifactId>
+  <versioning>
+    <latest>struts</latest>
+    <release>struts</release>
+    <versions>
+      <version>struts</version>
+    </versions>
+    <lastUpdated>20200513105534</lastUpdated>
+  </versioning>
+</metadata>
