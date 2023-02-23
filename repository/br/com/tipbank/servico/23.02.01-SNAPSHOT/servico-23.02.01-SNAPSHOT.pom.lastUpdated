@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 22 18:59:31 BRT 2023
-@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677103171995
-https\://mvnrepository.com/artifact/.error=Could not transfer artifact br.com.tipbank\:servico\:pom\:23.02.01-SNAPSHOT from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/br/com/tipbank/servico/23.02.01-SNAPSHOT/servico-23.02.01-SNAPSHOT.pom 403 Forbidden
