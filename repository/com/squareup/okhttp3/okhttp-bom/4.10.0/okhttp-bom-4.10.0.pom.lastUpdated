@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 22 18:55:38 BRT 2023
-https\://repo.maven.apache.org/maven2/.lastUpdated=1677102938095
-@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102938021
-https\://mvnrepository.com/artifact/.error=Could not transfer artifact com.squareup.okhttp3\:okhttp-bom\:pom\:4.10.0 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/com/squareup/okhttp3/okhttp-bom/4.10.0/okhttp-bom-4.10.0.pom 403 Forbidden

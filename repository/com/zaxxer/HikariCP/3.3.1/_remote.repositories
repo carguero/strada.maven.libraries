@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Sep 26 14:26:35 BRT 2022
-HikariCP-3.3.1.jar>nexus=
-HikariCP-3.3.1-sources.jar>nexus=
-HikariCP-3.3.1.pom>nexus=

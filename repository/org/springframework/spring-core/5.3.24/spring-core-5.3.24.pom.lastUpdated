@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 22 18:55:39 BRT 2023
-https\://repo.maven.apache.org/maven2/.lastUpdated=1677102939829
-@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102939751
-https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.springframework\:spring-core\:pom\:5.3.24 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/org/springframework/spring-core/5.3.24/spring-core-5.3.24.pom 403 Forbidden

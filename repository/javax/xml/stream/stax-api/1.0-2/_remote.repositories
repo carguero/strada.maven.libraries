@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 18:13:51 BRT 2022
-stax-api-1.0-2.jar>nexus=
-stax-api-1.0-2-sources.jar>nexus=
-stax-api-1.0-2.pom>nexus=

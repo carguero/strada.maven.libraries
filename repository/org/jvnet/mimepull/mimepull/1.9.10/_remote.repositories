@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 16:27:40 BRT 2022
-mimepull-1.9.10.jar>nexus=
-mimepull-1.9.10-sources.jar>nexus=
-mimepull-1.9.10.pom>central=
-mimepull-1.9.10.pom>nexus=
-mimepull-1.9.10.jar>central=

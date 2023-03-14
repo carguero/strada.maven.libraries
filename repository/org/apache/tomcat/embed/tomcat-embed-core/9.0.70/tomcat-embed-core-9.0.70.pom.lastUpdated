@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 22 18:55:43 BRT 2023
-https\://repo.maven.apache.org/maven2/.lastUpdated=1677102943111
-@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102943033
-https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-core\:pom\:9.0.70 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/org/apache/tomcat/embed/tomcat-embed-core/9.0.70/tomcat-embed-core-9.0.70.pom 403 Forbidden

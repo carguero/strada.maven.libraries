@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 16:16:38 BRT 2022
-feign-hystrix-9.5.1-sources.jar>nexus=
-feign-hystrix-9.5.1.jar>nexus=
-feign-hystrix-9.5.1.pom>nexus=
-feign-hystrix-9.5.1.pom>central=
-feign-hystrix-9.5.1.jar>central=

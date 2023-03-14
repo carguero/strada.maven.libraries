@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 16:18:46 BRT 2022
-swagger-annotations-1.5.14.jar>nexus=
-swagger-annotations-1.5.14-sources.jar>nexus=
-swagger-annotations-1.5.14.jar>central=
-swagger-annotations-1.5.14.pom>nexus=
-swagger-annotations-1.5.14.pom>central=

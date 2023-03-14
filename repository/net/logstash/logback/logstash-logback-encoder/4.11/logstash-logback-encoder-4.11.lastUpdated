@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Oct 28 16:45:10 BRT 2022
-https\://repo.maven.apache.org/maven2/.lastUpdated=1666986309953
-http\://nexus.devops.tipbank.local.br/repository/fabrica/.error=Could not transfer artifact net.logstash.logback\:logstash-logback-encoder\:\:4.11 from/to nexus (http\://nexus.devops.tipbank.local.br/repository/fabrica)\: Access denied to http\://nexus.devops.tipbank.local.br/repository/fabrica/net/logstash/logback/logstash-logback-encoder/4.11/logstash-logback-encoder-4.11. Error code 401, Unauthorized
-@default-nexus-http\://nexus.devops.tipbank.local.br/repository/fabrica/.lastUpdated=1666986310693
-https\://repo.maven.apache.org/maven2/.error=

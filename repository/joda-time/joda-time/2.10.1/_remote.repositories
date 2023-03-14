@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 16:29:19 BRT 2022
-joda-time-2.10.1.pom>nexus=
-joda-time-2.10.1-sources.jar>nexus=
-joda-time-2.10.1.pom>central=
-joda-time-2.10.1.jar>nexus=
-joda-time-2.10.1.jar>central=

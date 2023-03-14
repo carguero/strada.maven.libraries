@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 22 18:55:40 BRT 2023
-https\://repo.maven.apache.org/maven2/.lastUpdated=1677102940245
-@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102940169
-https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.springframework\:spring-aop\:pom\:5.3.24 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/org/springframework/spring-aop/5.3.24/spring-aop-5.3.24.pom 403 Forbidden

@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Sep 22 18:25:25 BRT 2022
-tomcat7-maven-plugin-2.0.jar>nexus=
-tomcat7-maven-plugin-2.0.pom>central=
-tomcat7-maven-plugin-2.0.jar>central=
-tomcat7-maven-plugin-2.0.pom>nexus=

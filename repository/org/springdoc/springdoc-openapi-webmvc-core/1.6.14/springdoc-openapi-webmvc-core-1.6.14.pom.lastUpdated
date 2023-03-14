@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 22 18:55:45 BRT 2023
-https\://repo.maven.apache.org/maven2/.lastUpdated=1677102945998
-@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102945921
-https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.springdoc\:springdoc-openapi-webmvc-core\:pom\:1.6.14 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/org/springdoc/springdoc-openapi-webmvc-core/1.6.14/springdoc-openapi-webmvc-core-1.6.14.pom 403 Forbidden

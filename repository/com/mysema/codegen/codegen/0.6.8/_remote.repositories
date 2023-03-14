@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 15:33:44 BRT 2022
-codegen-0.6.8.pom>nexus=
-codegen-0.6.8.pom>central=
-codegen-0.6.8.jar>nexus=
-codegen-0.6.8-sources.jar>nexus=
-codegen-0.6.8.jar>central=

@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 22 19:06:21 BRT 2023
-https\://repo.maven.apache.org/maven2/.lastUpdated=1677103581338
-@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677103578697
-https\://mvnrepository.com/artifact/.error=Could not transfer artifact com.fasterxml.woodstox\:woodstox-core\:jar\:6.4.0 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/com/fasterxml/woodstox/woodstox-core/6.4.0/woodstox-core-6.4.0.jar 403 Forbidden

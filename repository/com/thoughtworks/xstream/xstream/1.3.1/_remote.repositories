@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 15:05:28 BRT 2022
-xstream-1.3.1.pom>nexus=
-xstream-1.3.1.jar>nexus=
-xstream-1.3.1.jar>central=
-xstream-1.3.1.pom>central=

@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Oct 31 16:35:13 BRT 2022
-itextpdf-5.5.0-sources.jar>nexus=
-itextpdf-5.5.0.pom>nexus=
-itextpdf-5.5.0.jar>nexus=

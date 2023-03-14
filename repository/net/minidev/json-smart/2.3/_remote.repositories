@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 15:32:40 BRT 2022
-json-smart-2.3-sources.jar>nexus=
-json-smart-2.3.pom>central=
-json-smart-2.3.jar>nexus=
-json-smart-2.3.jar>central=
-json-smart-2.3.pom>nexus=

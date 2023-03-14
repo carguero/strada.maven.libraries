@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 15:32:15 BRT 2022
-spring-boot-configuration-processor-2.1.2.RELEASE.pom>central=
-spring-boot-configuration-processor-2.1.2.RELEASE.jar>central=
-spring-boot-configuration-processor-2.1.2.RELEASE-sources.jar>nexus=
-spring-boot-configuration-processor-2.1.2.RELEASE.pom>nexus=
-spring-boot-configuration-processor-2.1.2.RELEASE.jar>nexus=

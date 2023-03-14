@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 27 08:05:41 BRT 2022
-assertj-core-3.21.0.jar>nexus=
-assertj-core-3.21.0-sources.jar>nexus=
-assertj-core-3.21.0.pom>nexus=

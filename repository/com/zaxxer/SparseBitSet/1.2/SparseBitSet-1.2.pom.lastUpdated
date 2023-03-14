@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 22 18:55:37 BRT 2023
-https\://repo.maven.apache.org/maven2/.lastUpdated=1677102937514
-@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102937435
-https\://mvnrepository.com/artifact/.error=Could not transfer artifact com.zaxxer\:SparseBitSet\:pom\:1.2 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.pom 403 Forbidden

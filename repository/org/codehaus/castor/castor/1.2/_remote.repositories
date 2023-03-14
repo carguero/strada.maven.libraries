@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 16:29:00 BRT 2022
-castor-1.2.pom>central=
-castor-1.2.pom>nexus=
-castor-1.2.jar>nexus=
-castor-1.2.jar>central=
-castor-1.2-sources.jar>nexus=

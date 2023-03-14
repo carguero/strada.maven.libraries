@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Feb 06 12:02:39 BRT 2023
-http\://nexus.devops.tipbank.local.br/repository/fabrica/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-annotations\:jar\:2.2.3 from/to nexus (http\://nexus.devops.tipbank.local.br/repository/fabrica)\: Access denied to http\://nexus.devops.tipbank.local.br/repository/fabrica/com/fasterxml/jackson/core/jackson-annotations/2.2.3/jackson-annotations-2.2.3.jar. Error code 401, Unauthorized
-af3ff9aad143d63583b9d838c4d2b4b1cccd2608@default-nexus-http\://nexus.devops.tipbank.local.br/repository/fabrica/.lastUpdated=1675695759525

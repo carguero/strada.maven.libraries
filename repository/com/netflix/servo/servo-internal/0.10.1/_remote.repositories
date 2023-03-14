@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 16:17:03 BRT 2022
-servo-internal-0.10.1-sources.jar>nexus=
-servo-internal-0.10.1.pom>central=
-servo-internal-0.10.1.jar>central=
-servo-internal-0.10.1.pom>nexus=
-servo-internal-0.10.1.jar>nexus=

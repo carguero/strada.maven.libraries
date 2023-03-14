@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 15:29:41 BRT 2022
-spring-cloud-openfeign-core-2.1.0.M2.jar>spring-milestones=
-spring-cloud-openfeign-core-2.1.0.M2-sources.jar>nexus=
-spring-cloud-openfeign-core-2.1.0.M2.pom>spring-milestones=
-spring-cloud-openfeign-core-2.1.0.M2.jar>nexus=
-spring-cloud-openfeign-core-2.1.0.M2.pom>nexus=

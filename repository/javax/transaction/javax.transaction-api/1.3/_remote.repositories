@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 23 15:31:07 BRT 2022
-javax.transaction-api-1.3.jar>nexus=
-javax.transaction-api-1.3-sources.jar>nexus=
-javax.transaction-api-1.3.pom>nexus=
-javax.transaction-api-1.3.pom>central=
-javax.transaction-api-1.3.jar>central=
