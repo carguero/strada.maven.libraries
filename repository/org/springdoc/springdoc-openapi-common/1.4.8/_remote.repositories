@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:10:15 BRT 2022
+springdoc-openapi-common-1.4.8.jar>nexus=
+springdoc-openapi-common-1.4.8-sources.jar>nexus=
+springdoc-openapi-common-1.4.8.pom>nexus=

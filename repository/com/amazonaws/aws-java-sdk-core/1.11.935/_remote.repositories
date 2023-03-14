@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 22 18:26:51 BRT 2022
+aws-java-sdk-core-1.11.935.jar>central=
+aws-java-sdk-core-1.11.935.pom>central=
+aws-java-sdk-core-1.11.935.pom>nexus=
+aws-java-sdk-core-1.11.935.jar>nexus=
+aws-java-sdk-core-1.11.935-sources.jar>central=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 15:30:22 BRT 2022
+commons-collections-3.2.2.pom>nexus=
+commons-collections-3.2.2.pom>central=
+commons-collections-3.2.2.jar>central=
+commons-collections-3.2.2-sources.jar>nexus=
+commons-collections-3.2.2.jar>nexus=

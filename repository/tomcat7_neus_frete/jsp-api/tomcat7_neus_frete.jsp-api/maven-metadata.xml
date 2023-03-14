@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>tomcat7_neus_frete.jsp-api</groupId>
+  <artifactId>tomcat7_neus_frete.jsp-api</artifactId>
+  <versioning>
+    <latest>jsp-api</latest>
+    <release>jsp-api</release>
+    <versions>
+      <version>jsp-api</version>
+    </versions>
+    <lastUpdated>20200513141919</lastUpdated>
+  </versioning>
+</metadata>

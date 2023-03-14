@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 15:33:02 BRT 2022
+jjwt-0.7.0.jar>nexus=
+jjwt-0.7.0.pom>nexus=
+jjwt-0.7.0.jar>central=
+jjwt-0.7.0.pom>central=
+jjwt-0.7.0-sources.jar>nexus=

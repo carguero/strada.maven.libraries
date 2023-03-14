@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 09 10:08:29 BRT 2022
+http\://nexus.devops.tipbank.local.br/repository/fabrica/.error=Could not transfer artifact org.apache.commons\:commons-text\:jar\:1.9 from/to nexus (http\://nexus.devops.tipbank.local.br/repository/fabrica)\: Access denied to http\://nexus.devops.tipbank.local.br/repository/fabrica/org/apache/commons/commons-text/1.9/commons-text-1.9.jar. Error code 401, Unauthorized
+af3ff9aad143d63583b9d838c4d2b4b1cccd2608@default-nexus-http\://nexus.devops.tipbank.local.br/repository/fabrica/.lastUpdated=1665320909796

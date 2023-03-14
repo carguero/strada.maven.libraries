@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 14 15:19:42 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1663961162781
+http\://jasperreports.sourceforge.net/maven2/.lastUpdated=1663961163570
+http\://nexus.devops.tipbank.local.br/repository/fabrica/.error=
+http\://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/.error=
+http\://jasperreports.sourceforge.net/maven2/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/.lastUpdated=1663961164417
+http\://nexus.devops.tipbank.local.br/repository/fabrica/.lastUpdated=1676398782923

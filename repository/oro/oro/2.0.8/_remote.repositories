@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 22 18:26:51 BRT 2022
+oro-2.0.8-sources.jar>central=
+oro-2.0.8.pom>central=
+oro-2.0.8.pom>nexus=
+oro-2.0.8.jar>nexus=
+oro-2.0.8.jar>central=

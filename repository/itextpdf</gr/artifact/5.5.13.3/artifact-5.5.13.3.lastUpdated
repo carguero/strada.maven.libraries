@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 31 16:35:24 BRT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1667244923572
+http\://nexus.devops.tipbank.local.br/repository/fabrica/.error=Could not transfer artifact itextpdf</gr\:artifact\:\:5.5.13.3 from/to nexus (http\://nexus.devops.tipbank.local.br/repository/fabrica)\: Access denied to http\://nexus.devops.tipbank.local.br/repository/fabrica/itextpdf</gr/artifact/5.5.13.3/artifact-5.5.13.3. Error code 401, Unauthorized
+@default-nexus-http\://nexus.devops.tipbank.local.br/repository/fabrica/.lastUpdated=1667244924134
+https\://repo.maven.apache.org/maven2/.error=

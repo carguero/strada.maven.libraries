@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>at.favre.lib</groupId>
+    <artifactId>bcrypt-parent</artifactId>
+    <packaging>pom</packaging>
+    <version>0.9.0</version>
+
+    <url>https://github.com/patrickfav/bcrypt</url>
+    <inceptionYear>2018</inceptionYear>
+
+    <name>bcrypt-parent</name>
+    <description>Parent Maven project for Bcrypt</description>
+
+    <modules>
+        <module>modules/bcrypt</module>
+        <module>modules/bcrypt-cli</module>
+        <module>modules/benchmark-jmh</module>
+    </modules>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <project.jbcryptVersion>0.4</project.jbcryptVersion>
+        <project.bcVersion>1.60</project.bcVersion>
+        <project.skipJarSign>true
+        </project.skipJarSign> <!-- set this to true if fail because of missing credentials -->
+    </properties>
+
+    <repositories>
+        <repository>
+            <id>maven-central-repo</id>
+            <url>http://repo1.maven.org/maven2</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>maven-central-repo</id>
+            <url>http://repo1.maven.org/maven2</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </pluginRepository>
+    </pluginRepositories>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-checkstyle-plugin</artifactId>
+                    <version>3.1.0</version>
+                    <configuration>
+                        <configLocation>checkstyle.xml</configLocation>
+                    </configuration>
+                    <dependencies>
+                        <dependency>
+                            <groupId>com.puppycrawl.tools</groupId>
+                            <artifactId>checkstyle</artifactId>
+                            <version>8.19</version>
+                        </dependency>
+                    </dependencies>
+                    <executions>
+                        <execution>
+                            <id>validate</id>
+                            <phase>validate</phase>
+                            <goals>
+                                <goal>check</goal>
+                            </goals>
+                        </execution>
+                    </executions>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+        <plugins>
+            <!-- check for updates with mvn versions:display-dependency-updates -->
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>versions-maven-plugin</artifactId>
+                <version>2.7</version>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.0.0-M3</version>
+                <configuration>
+                    <parallel>classes</parallel>
+                    <threadCount>5</threadCount>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <compilerId>javac-with-errorprone</compilerId>
+                    <forceJavacCompilerUse>true</forceJavacCompilerUse>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                </configuration>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.codehaus.plexus</groupId>
+                        <artifactId>plexus-compiler-javac-errorprone</artifactId>
+                        <version>2.8.2</version>
+                    </dependency>
+                    <!-- override plexus-compiler-javac-errorprone's dependency on
+                         Error Prone with the latest version -->
+                    <dependency>
+                        <groupId>com.google.errorprone</groupId>
+                        <artifactId>error_prone_core</artifactId>
+                        <!-- only one compatible with java 7-->
+                        <version>2.0.5</version>
+                    </dependency>
+                </dependencies>
+            </plugin>
+            <plugin>
+                <groupId>org.jacoco</groupId>
+                <artifactId>jacoco-maven-plugin</artifactId>
+                <version>0.8.5</version>
+                <executions>
+                    <execution>
+                        <id>prepare-agent</id>
+                        <goals>
+                            <goal>prepare-agent</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.eluder.coveralls</groupId>
+                <artifactId>coveralls-maven-plugin</artifactId>
+                <version>4.3.0</version>
+            </plugin>
+        </plugins>
+    </build>
+
+    <developers>
+        <developer>
+            <id>patrickfav</id>
+            <name>Patrick Favre-Bulle</name>
+            <email>patrick.favrebulle@gmail.com</email>
+        </developer>
+    </developers>
+
+    <distributionManagement>
+        <repository>
+            <id>bintray-patrickfav</id>
+            <name>patrickfav-bcrypt</name>
+            <url>https://api.bintray.com/maven/patrickfav/maven/bcrypt/;publish=1</url>
+        </repository>
+    </distributionManagement>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <connection>https://github.com/patrickfav/bcrypt.git</connection>
+        <developerConnection>https://github.com/patrickfav/bcrypt.git</developerConnection>
+        <tag>HEAD</tag>
+        <url>https://github.com/patrickfav/bcrypt</url>
+    </scm>
+
+    <issueManagement>
+        <system>Github</system>
+        <url>https://github.com/patrickfav/bcrypt/issues</url>
+    </issueManagement>
+
+    <ciManagement>
+        <system>Travis</system>
+        <url>https://travis-ci.org/patrickfav/bcrypt</url>
+    </ciManagement>
+</project>

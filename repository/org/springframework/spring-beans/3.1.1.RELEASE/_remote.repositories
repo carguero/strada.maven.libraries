@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Feb 06 12:03:30 BRT 2023
+spring-beans-3.1.1.RELEASE.jar>nexus=
+spring-beans-3.1.1.RELEASE.pom>nexus=
+spring-beans-3.1.1.RELEASE-sources.jar>nexus=

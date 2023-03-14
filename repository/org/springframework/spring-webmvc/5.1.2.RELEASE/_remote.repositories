@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:27:29 BRT 2022
+spring-webmvc-5.1.2.RELEASE.pom>central=
+spring-webmvc-5.1.2.RELEASE.jar>nexus=
+spring-webmvc-5.1.2.RELEASE.pom>nexus=
+spring-webmvc-5.1.2.RELEASE-sources.jar>nexus=
+spring-webmvc-5.1.2.RELEASE.jar>central=

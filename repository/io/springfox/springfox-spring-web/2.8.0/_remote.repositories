@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:18:39 BRT 2022
+springfox-spring-web-2.8.0.jar>nexus=
+springfox-spring-web-2.8.0.pom>nexus=
+springfox-spring-web-2.8.0-sources.jar>nexus=
+springfox-spring-web-2.8.0.jar>central=
+springfox-spring-web-2.8.0.pom>central=

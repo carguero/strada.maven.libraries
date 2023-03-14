@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 18:13:42 BRT 2022
+jsr181-api-1.0-MR1.pom>nexus=
+jsr181-api-1.0-MR1-sources.jar>nexus=
+jsr181-api-1.0-MR1.jar>nexus=

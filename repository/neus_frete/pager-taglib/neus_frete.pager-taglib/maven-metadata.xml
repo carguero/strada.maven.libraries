@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>neus_frete.pager-taglib</groupId>
+  <artifactId>neus_frete.pager-taglib</artifactId>
+  <versioning>
+    <latest>pager-taglib</latest>
+    <release>pager-taglib</release>
+    <versions>
+      <version>pager-taglib</version>
+    </versions>
+    <lastUpdated>20200513110955</lastUpdated>
+  </versioning>
+</metadata>

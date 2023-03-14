@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>neus_frete_ailog.commons-logging</groupId>
+  <artifactId>neus_frete_ailog.commons-logging</artifactId>
+  <versioning>
+    <latest>commons-logging</latest>
+    <release>commons-logging</release>
+    <versions>
+      <version>commons-logging</version>
+    </versions>
+    <lastUpdated>20200512184726</lastUpdated>
+  </versioning>
+</metadata>

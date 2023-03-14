@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 22 18:30:08 BRT 2022
+maven-archiver-2.5.pom>nexus=
+maven-archiver-2.5.pom>central=
+maven-archiver-2.5.jar>central=
+maven-archiver-2.5.jar>nexus=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:06:22 BRT 2022
+jackson-datatype-jsr310-2.13.1-sources.jar>nexus=
+jackson-datatype-jsr310-2.13.1.jar>nexus=
+jackson-datatype-jsr310-2.13.1.pom>nexus=

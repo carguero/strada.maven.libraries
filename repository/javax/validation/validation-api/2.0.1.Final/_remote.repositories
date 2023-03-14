@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 15:32:10 BRT 2022
+validation-api-2.0.1.Final.pom>central=
+validation-api-2.0.1.Final.jar>nexus=
+validation-api-2.0.1.Final.jar>central=
+validation-api-2.0.1.Final-sources.jar>nexus=
+validation-api-2.0.1.Final.pom>nexus=

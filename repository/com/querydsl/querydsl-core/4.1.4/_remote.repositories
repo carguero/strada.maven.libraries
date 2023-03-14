@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:28:36 BRT 2022
+querydsl-core-4.1.4.jar>nexus=
+querydsl-core-4.1.4.jar>central=
+querydsl-core-4.1.4.pom>central=
+querydsl-core-4.1.4.pom>nexus=
+querydsl-core-4.1.4-sources.jar>nexus=

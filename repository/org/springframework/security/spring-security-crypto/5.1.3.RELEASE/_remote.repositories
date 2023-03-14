@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 15:29:49 BRT 2022
+spring-security-crypto-5.1.3.RELEASE.jar>central=
+spring-security-crypto-5.1.3.RELEASE.pom>nexus=
+spring-security-crypto-5.1.3.RELEASE.jar>nexus=
+spring-security-crypto-5.1.3.RELEASE-sources.jar>nexus=
+spring-security-crypto-5.1.3.RELEASE.pom>central=

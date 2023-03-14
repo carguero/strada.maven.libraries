@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 02 11:52:08 BRT 2022
+junit-platform-engine-1.9.1.pom>nexus=
+junit-platform-engine-1.9.1.jar>nexus=
+junit-platform-engine-1.9.1-sources.jar>nexus=

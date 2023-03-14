@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 19:06:21 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677103581338
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677103578697
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.webjars\:swagger-ui\:jar\:4.15.5 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/org/webjars/swagger-ui/4.15.5/swagger-ui-4.15.5.jar 403 Forbidden

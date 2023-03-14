@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:02:36 BRT 2022
+bcprov-jdk15on-1.68.jar>nexus=
+bcprov-jdk15on-1.68.pom>nexus=
+bcprov-jdk15on-1.68-sources.jar>nexus=

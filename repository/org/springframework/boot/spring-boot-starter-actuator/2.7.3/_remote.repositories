@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 13:54:58 BRT 2022
+spring-boot-starter-actuator-2.7.3.pom>nexus=
+spring-boot-starter-actuator-2.7.3-sources.jar>nexus=
+spring-boot-starter-actuator-2.7.3.jar>nexus=

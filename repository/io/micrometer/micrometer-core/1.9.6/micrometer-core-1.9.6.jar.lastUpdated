@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 19:06:21 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677103581335
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677103578695
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact io.micrometer\:micrometer-core\:jar\:1.9.6 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/io/micrometer/micrometer-core/1.9.6/micrometer-core-1.9.6.jar 403 Forbidden

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:04:11 BRT 2022
+netflix-eventbus-0.3.0-sources.jar>nexus=
+netflix-eventbus-0.3.0.jar>nexus=
+netflix-eventbus-0.3.0.pom>nexus=

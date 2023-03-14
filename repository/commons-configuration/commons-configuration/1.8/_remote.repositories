@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 15:30:10 BRT 2022
+commons-configuration-1.8.jar>nexus=
+commons-configuration-1.8.pom>central=
+commons-configuration-1.8.jar>central=
+commons-configuration-1.8.pom>nexus=
+commons-configuration-1.8-sources.jar>nexus=

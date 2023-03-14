@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:26:46 BRT 2022
+micrometer-core-1.1.0.jar>central=
+micrometer-core-1.1.0.pom>nexus=
+micrometer-core-1.1.0.pom>central=
+micrometer-core-1.1.0.jar>nexus=
+micrometer-core-1.1.0-sources.jar>nexus=

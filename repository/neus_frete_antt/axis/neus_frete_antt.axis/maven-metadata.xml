@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>neus_frete_antt.axis</groupId>
+  <artifactId>neus_frete_antt.axis</artifactId>
+  <versioning>
+    <latest>axis</latest>
+    <release>axis</release>
+    <versions>
+      <version>axis</version>
+    </versions>
+    <lastUpdated>20200513181711</lastUpdated>
+  </versioning>
+</metadata>

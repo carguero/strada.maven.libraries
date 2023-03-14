@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 13:56:23 BRT 2022
+jaxb-runtime-2.3.6.jar>nexus=
+jaxb-runtime-2.3.6-sources.jar>nexus=
+jaxb-runtime-2.3.6.pom>nexus=

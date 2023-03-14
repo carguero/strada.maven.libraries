@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:17:52 BRT 2022
+spring-boot-2.0.1.RELEASE.pom>central=
+spring-boot-2.0.1.RELEASE.jar>nexus=
+spring-boot-2.0.1.RELEASE.pom>nexus=
+spring-boot-2.0.1.RELEASE-sources.jar>nexus=
+spring-boot-2.0.1.RELEASE.jar>central=

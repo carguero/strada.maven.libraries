@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 15:33:51 BRT 2022
+querydsl-jpa-4.2.1.jar>central=
+querydsl-jpa-4.2.1.pom>nexus=
+querydsl-jpa-4.2.1.jar>nexus=
+querydsl-jpa-4.2.1-sources.jar>nexus=
+querydsl-jpa-4.2.1.pom>central=

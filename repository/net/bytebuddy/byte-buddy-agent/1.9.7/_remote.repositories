@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 15:32:51 BRT 2022
+byte-buddy-agent-1.9.7.jar>nexus=
+byte-buddy-agent-1.9.7-sources.jar>nexus=
+byte-buddy-agent-1.9.7.pom>nexus=
+byte-buddy-agent-1.9.7.pom>central=
+byte-buddy-agent-1.9.7.jar>central=

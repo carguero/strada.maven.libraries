@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 23 16:04:45 BRT 2022
+classgraph-4.8.149.jar>nexus=
+classgraph-4.8.149.pom>nexus=
+classgraph-4.8.149-sources.jar>nexus=

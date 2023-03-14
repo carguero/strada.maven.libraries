@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 18:55:31 BRT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677102931039
+@default-nexus-https\://mvnrepository.com/artifact/.lastUpdated=1677102930954
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:5.5.16 from/to nexus (https\://mvnrepository.com/artifact/)\: Authorization failed for https\://mvnrepository.com/artifact/org/springframework/integration/spring-integration-bom/5.5.16/spring-integration-bom-5.5.16.pom 403 Forbidden

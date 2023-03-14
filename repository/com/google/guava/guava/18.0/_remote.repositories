@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 22 18:26:51 BRT 2022
+guava-18.0.pom>central=
+guava-18.0-sources.jar>central=
+guava-18.0.jar>central=
+guava-18.0.jar>nexus=
+guava-18.0.pom>nexus=

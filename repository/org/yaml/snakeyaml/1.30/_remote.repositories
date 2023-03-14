@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 13:55:14 BRT 2022
+snakeyaml-1.30-sources.jar>nexus=
+snakeyaml-1.30.jar>nexus=
+snakeyaml-1.30.pom>nexus=

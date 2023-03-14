@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 26 14:26:26 BRT 2022
+feign-jackson-10.1.0-sources.jar>nexus=
+feign-jackson-10.1.0.pom>nexus=
+feign-jackson-10.1.0.jar>nexus=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 22 18:26:51 BRT 2022
+commons-chain-1.2.jar>nexus=
+commons-chain-1.2-sources.jar>central=
+commons-chain-1.2.pom>central=
+commons-chain-1.2.jar>central=
+commons-chain-1.2.pom>nexus=

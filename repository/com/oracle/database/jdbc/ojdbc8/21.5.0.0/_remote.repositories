@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 13:59:07 BRT 2022
+ojdbc8-21.5.0.0.pom>nexus=
+ojdbc8-21.5.0.0.jar>nexus=
+ojdbc8-21.5.0.0-sources.jar>nexus=

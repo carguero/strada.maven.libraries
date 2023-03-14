@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:10:03 BRT 2022
+lombok-1.18.22.jar>nexus=
+lombok-1.18.22.pom>nexus=
+lombok-1.18.22-sources.jar>nexus=

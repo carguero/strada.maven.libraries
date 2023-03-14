@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 23 16:26:26 BRT 2022
+jcommon-1.0.15.jar>nexus=
+jcommon-1.0.15.pom>nexus=
+jcommon-1.0.15.jar>central=
+jcommon-1.0.15.pom>central=

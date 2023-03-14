@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 13:59:33 BRT 2022
+spring-cloud-starter-gateway-3.1.0.pom>nexus=
+spring-cloud-starter-gateway-3.1.0.jar>nexus=
+spring-cloud-starter-gateway-3.1.0-javadoc.jar>nexus=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 07 11:32:22 BRT 2022
+bytes-1.3.0.jar>nexus=
+bytes-1.3.0.pom>nexus=
+bytes-1.3.0-sources.jar>nexus=
